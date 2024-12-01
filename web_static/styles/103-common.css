@@ -1,0 +1,11 @@
+/* Improved contrast */
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+/* Larger text for better readability */
+body, button, h1, h2, h3, p {
+    font-size: 16px;
+}
+

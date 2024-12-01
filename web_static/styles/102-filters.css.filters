@@ -1,0 +1,14 @@
+
+qly: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.filters button {
+    margin: 10px 0;
+    width: 100%;
+}
+
+Copy code
+
+
